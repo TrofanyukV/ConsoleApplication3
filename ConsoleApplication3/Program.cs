@@ -13,6 +13,8 @@ namespace ConsoleApplication3
             int i = 123;
             object o = i;
             i++;
+            int asd=0;
+            asd++;
             Console.WriteLine(o);
         }
     }
