@@ -12,7 +12,7 @@ namespace ConsoleApplication3
         {
             int i = 123;
             object o = i;
-            ++i;
+            i++;
             Console.WriteLine(o);
         }
     }
